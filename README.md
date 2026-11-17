@@ -1,3 +1,1 @@
-I managed to enable authentication; the other projects are stored on Yandex Disk, 
-listed in a file called Link.txt.
-I cannot upload these projects themselves because their file size is too large.
+I managed to enable authentication. The other projects are stored on Yandex Disk in a file called `Link.txt`; I cannot upload the projects themselves because their file size is too large. If you don't feel like opening `Link.txt`, here is the direct link: https://disk.yandex.ru/d/FTUNCL6jp-0aOA
